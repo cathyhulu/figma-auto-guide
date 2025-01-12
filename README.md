@@ -1,1 +1,1 @@
-# figma-auto-guide
+# figma-plugin-insert-audio
